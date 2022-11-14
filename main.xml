@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<website>
+<site name="DelftStack">
+<content>Programming Tutorials</content>
+<topic>PowerShell Howtos</topic>
+<article>How to convert XML into CSV?</article>
+</site>
+<site name="DelftStack">
+<content>Programming Tutorials</content>
+<topic>Linux Howtos</topic>
+<article>Delete Files Recursively in Linux</article>
+</site>
+</website>

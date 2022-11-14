@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<website>
+<site name="DelftStack">
+<content>Prog</content>
+<topic>Powwtos</topic>
+<article>Ho CSV?</article>
+</site>
+<site name="DelftStack">
+<content>Progrials</content>
+<topic>Linuxtos</topic>
+<article> in Linux</article>
+</site>
+</website>
